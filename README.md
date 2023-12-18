@@ -23,4 +23,4 @@ The dataset used in this project is the AEP (American Electric Power) hourly ene
 ## How to Use
 1. Clone the repository and navigate to the project directory.
 2. Run the Jupyter Notebooks to see the analysis and modeling steps.
-3. Explore the [Tableau dashboards] (https://public.tableau.com/views/Utilities_17027379649910/PowerPatrolDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) for interactive visual insights.
+3. Explore the [Tableau dashboards](https://public.tableau.com/views/Utilities_17027379649910/PowerPatrolDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) for interactive visual insights.
