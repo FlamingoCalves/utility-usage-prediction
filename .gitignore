@@ -1,0 +1,12 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python virtual environments
+esource_venv_2/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore all .env files which may contain sensitive information
+.env
