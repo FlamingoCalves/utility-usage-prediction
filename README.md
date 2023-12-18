@@ -4,7 +4,7 @@
 This project leverages advanced machine learning techniques to forecast utility usage up to the year 2050 and to detect anomalies in the consumption patterns. The aim is to provide a tool that can anticipate utility spikes and potentially prevent blackouts, especially during extreme weather conditions.
 
 ## Data Source
-The dataset used in this project is the AEP (American Electric Power) hourly energy consumption data, sourced from Kaggle.
+The dataset used in this project is the AEP (American Electric Power) hourly energy consumption data, sourced from [Kaggle](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption?select=PJME_hourly.csv).
 
 ## Methodology
 - Exploratory Data Analysis (EDA) to understand the data's characteristics.
